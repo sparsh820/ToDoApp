@@ -1,0 +1,12 @@
+<resources>
+
+   <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"></style>
+
+   <style name="AppTheme.PopUpOverlay" parent="ThemeOverlay.MaterialComponents.Light"></style>
+
+   <style name="Widget.Unscramble.TextInputLayout.OutlinedBox" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+      <item name="boxStrokeColor">@color/red_700</item>
+      <item name="helperTextTextAppearance">@style/TextAppearance.MaterialComponents.Subtitle1</item>
+      <item name="hintTextColor">@color/red_700</item>
+   </style>
+</resources>
